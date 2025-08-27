@@ -1,0 +1,22 @@
+
+# .env para versión 100% GRATUITA
+
+# Weather API Key (GRATIS - 1000 calls/día)
+# Obtener en: https://openweathermap.org/api
+WEATHER_API_KEY=tu_weather_key_gratis_aqui
+
+# Flask Secret Key
+SECRET_KEY=despegar-ai-free-secret-key-2024
+
+# Configuración de entorno
+FLASK_ENV=development
+FLASK_DEBUG=true
+HOST=0.0.0.0
+PORT=5000
+
+# Configuración de Toqan (ajustar según API real)
+TOQAN_API_URL=https://api.toqan.ai/chat
+
+# Configuración optimizada para gratis
+NOTIFICATION_INTERVAL=600
+MAX_ACTIVE_USERS=100
